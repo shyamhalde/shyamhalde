@@ -21,6 +21,6 @@ Check out my work on my portfolio website:
 ## 📫 Get in Touch
 - 📧 Email: [haldeshyam123@gmail.com](mailto:haldeshyam123@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/shyam-halde](https://linkedin.com/in/shyam-halde)
-- 🏗 GitHub: [github.com/shyam-halde](https://github.com/shyam-halde)
+- 🏗 GitHub: [github.com/shyam-halde](https://github.com/shyamhalde)
 
 Let's build something amazing together! 🚀
